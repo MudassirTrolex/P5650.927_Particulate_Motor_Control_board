@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=P1234.01_A1_Schematic Sheet 1 of 3.SchDoc
+Record=SheetSymbol|SourceDocument=P1234.01_A1_Schematic Sheet 1 of 3.SchDoc|Designator=Sheet 2|SchDesignator=Sheet 2|FileName=P1234.01_A1_Schematic Sheet 2 of 3.SchDoc|SymbolType=Normal|RawFileName=P1234.01_A1_Schematic Sheet 2 of 3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=P1234.01_A1_Schematic Sheet 1 of 3.SchDoc|Designator=Sheet 3|SchDesignator=Sheet 3|FileName=P1234.01_A1_Schematic Sheet 3 of 3.SchDoc|SymbolType=Normal|RawFileName=P1234.01_A1_Schematic Sheet 3 of 3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
