@@ -44,65 +44,64 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=P1234.03.01
 
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=P1234.01_TopLevel.SchDoc
+DocumentPath=P5650.925_TopLevel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CXYCNNVV
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=P1234.01_SchematicSheet1.SchDoc
+DocumentPath=P5650.925_SchematicSheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HMHSVBXO
+DocumentUniqueId=
 
 [Document3]
-DocumentPath=P1234.01_PCB Features.SchDoc
+DocumentPath=P5650.925_PCB Features.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=USAODBXQ
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=P1234.02_PCB.PcbDoc
+DocumentPath=P5650.926_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -112,14 +111,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OUWGSFBS
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=P1234.02_Panel.PcbDoc
+DocumentPath=P5650.926_Panel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -129,14 +128,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NVSMJJFY
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=P1234.03.01_Assembly.PCBDwf
+DocumentPath=P5650.927.01_Assembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -146,11 +145,11 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KFKAISLV
+DocumentUniqueId=
 
 [Document7]
 DocumentPath=P1234.03.OutJob
@@ -187,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=P1234.02_PCB_Spec.PCBDwf
+DocumentPath=P5650.926_PCB_Spec.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -197,14 +196,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SAQNPBVJ
+DocumentUniqueId=
 
 [Document10]
-DocumentPath=P1234.02_PCB_Panel.PCBDwf
+DocumentPath=P5650.926_PCB_Panel.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -214,11 +213,11 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RABVJHHT
+DocumentUniqueId=
 
 [Document11]
 DocumentPath=P1234.02.CERT.PCBDwf
@@ -256,7 +255,7 @@ DocumentUniqueId=EHEWNYRA
 
 [ProjectVariant1]
 UniqueId=812686D2-7B7D-4276-8EEF-4114F3581D7C
-Description=P1234.02.CERT
+Description=P5650.926.CERT
 AllowFabrication=0
 ParameterCount=56
 VariationCount=0
@@ -312,7 +311,7 @@ Value=Certification BOM
 
 [Parameter2_13]
 Name=ATEX_IECEx_DOC_NUMBER
-Value=P1234.01.CERT
+Value=P5650.926.CERT
 
 [Parameter2_14]
 Name=ATEX_IECEx_DRAWN_DATE
@@ -476,11 +475,11 @@ Value=1.8mm +- 10%
 
 [Parameter2_54]
 Name=SchematicVariantName
-Value=P1234.03.CERT
+Value=P5650.927.CERT
 
 [Parameter2_55]
 Name=XREF_DOC_ASSY
-Value=P1234.01.MASTER
+Value=P5650.926..MASTER
 
 [Parameter2_56]
 Name=XREF_REV_ASSY
@@ -488,7 +487,7 @@ Value=A
 
 [ProjectVariant2]
 UniqueId=F7E0D5F4-07EF-4E3E-B7F2-DFEF3844E426
-Description=P1234.03.CERT
+Description=P5650.927.CERT
 AllowFabrication=0
 ParameterCount=49
 VariationCount=0
@@ -544,7 +543,7 @@ Value=Certification BOM
 
 [Parameter3_13]
 Name=ATEX_IECEx_DOC_NUMBER
-Value=P1234.01.CERT
+Value=P5650.925.CERT
 
 [Parameter3_14]
 Name=ATEX_IECEx_DRAWN_DATE
@@ -688,7 +687,7 @@ Value=
 
 [Parameter3_49]
 Name=SchematicVariantName
-Value=P1234.01.CERT
+Value=P5650.925.CERT
 
 [ProjectVariant3]
 UniqueId=1C7817CA-1AA8-447C-8A9D-FCC8401D048B
@@ -700,7 +699,7 @@ ParamVariationCount=0
 
 [ProjectVariant4]
 UniqueId=DC770B9E-D72C-47E6-BBFE-CD8591A0005C
-Description=P1234.02_PCB_Specification
+Description=P5650.926_PCB_Specification
 AllowFabrication=0
 ParameterCount=58
 VariationCount=0
@@ -924,7 +923,7 @@ Value=1.6mm
 
 [Parameter5_55]
 Name=SchematicVariantName
-Value=P1234.01.01
+Value=P5650.925.01
 
 [Parameter5_56]
 Name=SheetTotal
@@ -932,7 +931,7 @@ Value=4
 
 [Parameter5_57]
 Name=XREF_DOC_ASSY
-Value=P1234.02.CERT
+Value=P5650.926.CERT
 
 [Parameter5_58]
 Name=XREF_REV_ASSY
@@ -940,7 +939,7 @@ Value=A1
 
 [ProjectVariant5]
 UniqueId=38D69255-2702-4C2B-AE37-A2124F6C0245
-Description=P1234.03.01
+Description=P5650.927.01
 AllowFabrication=0
 ParameterCount=78
 VariationCount=0
@@ -988,11 +987,11 @@ Value=
 
 [Parameter6_11]
 Name=ASSY_XREF_DOC1
-Value=P1234.03.CERT
+Value=P5650.927.CERT
 
 [Parameter6_12]
 Name=ASSY_XREF_DOC2
-Value=P1234.03.CERT1
+Value=P5650.927.CERT1
 
 [Parameter6_13]
 Name=ASSY_XREF_DOC3
@@ -1192,11 +1191,11 @@ Value=
 
 [Parameter6_62]
 Name=SCH_XREF_DOC1
-Value=P1234.01.CERT
+Value=P5650.925.CERT
 
 [Parameter6_63]
 Name=SCH_XREF_DOC2
-Value=P1234.01.CERT1
+Value=P5650.925.CERT1
 
 [Parameter6_64]
 Name=SCH_XREF_DOC3
@@ -1256,7 +1255,7 @@ Value=
 
 [Parameter6_78]
 Name=SchematicVariantName
-Value=P1234.01.01
+Value=P5650.925.01
 
 [Parameter1]
 Name=Client_Project
