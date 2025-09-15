@@ -1257,6 +1257,10 @@ Value=
 Name=SchematicVariantName
 Value=P5650.925.01
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for P5650.927 Particulate Motor Control Board\Design Rule Check - P5650.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Client_Project
 Value=P1234
